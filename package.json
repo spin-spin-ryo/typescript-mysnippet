@@ -1,0 +1,15 @@
+{
+  "name": "typescript_sandbox",
+  "version": "1.0.0",
+  "description": "学習しながら個人的にまとめたsnippetたち",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
